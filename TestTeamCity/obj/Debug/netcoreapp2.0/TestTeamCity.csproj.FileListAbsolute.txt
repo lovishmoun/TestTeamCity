@@ -1,0 +1,11 @@
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\bin\Debug\netcoreapp2.0\TestTeamCity.deps.json
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\bin\Debug\netcoreapp2.0\TestTeamCity.runtimeconfig.json
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\bin\Debug\netcoreapp2.0\TestTeamCity.runtimeconfig.dev.json
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\bin\Debug\netcoreapp2.0\TestTeamCity.dll
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\obj\Debug\netcoreapp2.0\TestTeamCity.csprojAssemblyReference.cache
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\obj\Debug\netcoreapp2.0\TestTeamCity.csproj.CoreCompileInputs.cache
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\obj\Debug\netcoreapp2.0\TestTeamCity.AssemblyInfoInputs.cache
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\obj\Debug\netcoreapp2.0\TestTeamCity.AssemblyInfo.cs
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\bin\Debug\netcoreapp2.0\TestTeamCity.pdb
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\obj\Debug\netcoreapp2.0\TestTeamCity.dll
+C:\Users\indu\Documents\Visual Studio 2017\Projects\TestTeamCity\TestTeamCity\obj\Debug\netcoreapp2.0\TestTeamCity.pdb
